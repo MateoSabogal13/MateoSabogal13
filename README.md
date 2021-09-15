@@ -76,7 +76,7 @@ You have finally discovered my Github profile, I was waiting for you! <br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
      
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="<img src="https://img.icons8.com/color/50/000000/spring-logo.png"/> </a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/50/000000/spring-logo.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
@@ -87,13 +87,7 @@ You have finally discovered my Github profile, I was waiting for you! <br>
 
 </div>
 
-<br>
-<div align="center">
-<h3>Support</h3>
-<p><a href="https://www.buymeacoffee.com/felippegh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
-</div>
-
 -----
-Credits: [felippegh](https://github.com/felippegh)
+Credits: [MateoSabogal13](https://github.com/MateoSabogal13)
 
-Last Edited on: 08/07/2021
+Last Edited on: 14/09/2021
