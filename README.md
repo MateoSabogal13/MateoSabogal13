@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Mateo </h1>
-<h3 align="center">A passionate Software Developer  from Brazil <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/CO-Colombia-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h3 align="center">A passionate Software Developer  from Colombia <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/CO-Colombia-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
 <div align="center">
 You have finally discovered my Github profile, I was waiting for you! <br>
@@ -22,9 +22,7 @@ You have finally discovered my Github profile, I was waiting for you! <br>
 
   <div>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/felippegh?tab=repositories)
-
-- 💬 Ask me about anything <a href="https://github.com/felippegh/felippegh/issues/new"><b>here</b></a>
+- 👨‍💻 All of my projects are available  [here](https://github.com/MateoSabogal13?tab=repositories)
 
 - 📫 Also, you may send a nice letter to **mateo.sabogal@correounivalle.edu.co**
 
